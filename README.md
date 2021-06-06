@@ -1,9 +1,5 @@
-# pinterest-clone
-### clone of popular website 'pinterest' using HTML & CSS
+# UI Clones of popular web apps
 
-* **index.html** is made from vanilla CSS (no bootstrap framework is used)
-* **bs4 version.html** uses bootstrap 4 (the 'card' class makes it easier to make flexboxes and grids)
+### Pinterest (2018)
 
-
-
-
+- HTML5, CSS and Bootstrap4 used
