@@ -1,0 +1,44 @@
+.navbar-logo {
+  height: 36px;
+}
+
+h1 {
+  font-size: 48px;
+}
+
+.nav-item {
+  padding: 0 32px;
+  font-size: 16px;
+}
+
+.covid-notification {
+  font-size: 14px;
+}
+
+.cta-links {
+  font-weight: 500;
+}
+
+.ipad {
+  background-color: black;
+}
+
+.iphone {
+  background-color: #fbfbfd;
+}
+
+.imac {
+  background-color: #fbfbfd;
+}
+
+.homepage-footer {
+  display: block;
+  background-color: #f5f5f7;
+  font-size: 12px;
+  width: 100%;
+}
+
+.footer-text {
+  padding: 4px 22px;
+  max-width: 980px;
+}
