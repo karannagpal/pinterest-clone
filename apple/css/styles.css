@@ -11,6 +11,17 @@ h1 {
   font-size: 16px;
 }
 
+.shopping-bag {
+  padding-top: 12px;
+  height: 28px;
+  opacity: 60%;
+}
+
+.shopping-bag:hover {
+  opacity: 100%;
+  transition: all 0.2s;
+}
+
 .covid-notification {
   font-size: 14px;
 }
@@ -39,6 +50,9 @@ h1 {
 }
 
 .footer-text {
-  padding: 4px 22px;
-  max-width: 980px;
+  margin-bottom: 8px;
+}
+
+.apple-directory {
+  display: flex;
 }
