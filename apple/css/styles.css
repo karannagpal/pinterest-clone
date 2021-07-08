@@ -6,6 +6,11 @@ h1 {
   font-size: 48px;
 }
 
+nav {
+  background-color: rgba(0, 0, 0, 0.8);
+  backdrop-filter: saturate(180%) blur(20px);
+}
+
 .nav-item {
   padding: 0 32px;
   font-size: 16px;
